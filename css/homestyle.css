@@ -1,0 +1,20 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Main */
+.main {
+	background-image: url("../assets/home/marble.jpg");
+	padding-top: 218px;
+	padding-bottom: 218px;
+	color: #2C2C27;
+	text-align: center;
+}
+.main h1 {
+	font-size: 70px;
+	letter-spacing: 25px;
+	background-color: #F8EBF3;
+	width: 65%;
+	display: inline-block;
+	text-align: center;
+	border-radius: 10px;
+	padding: 10px 0px 10px 20px;
+}

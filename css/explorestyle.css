@@ -1,0 +1,23 @@
+@charset "UTF-8";
+/* CSS Document */
+/* Main */
+.gallery {
+	background-color: #F8EBF3;
+	padding: 15px 0px 15px 50px;
+	margin-left: -50px;
+	width: 100%;
+}
+.gallery h1 {
+	text-align: center;
+}
+.picdiv {
+	display: inline-block;
+	margin-bottom: 25px;
+	margin-left: 1%;
+	padding-top: 
+	float: left;
+}
+.pic {
+	border-radius: 5px;
+	height: 300px;
+}
