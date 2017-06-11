@@ -41,7 +41,7 @@ header {
 }
 nav {
 	float: right;
-	width: 65%;
+	width: 60%;
 	text-align: right;
 	margin-right: 25px;
 }
@@ -75,11 +75,7 @@ ul li a {
 	letter-spacing: 4px;
 }
 /* Mobile */
-@media (max-width: 320px) {
-
-}
-/* Small Tablets */
-@media (min-width: 321px)and (max-width: 767px) {
+@media (max-width: 767px) {
 	header {
 		height: 60px;
 	}
