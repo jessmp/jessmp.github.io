@@ -27,11 +27,13 @@
 	padding-top: 10px;
 	padding-bottom: 10px;
 	margin-left: 1%;
+	margin-right: 1%;
 }
 .drawing {
 	border-radius: 5px;
 	max-height: 500px;
 	height: auto;
+	max-width: 45%;
 }
 
 /* Mobile */
