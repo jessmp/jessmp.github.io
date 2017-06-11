@@ -19,7 +19,7 @@
 }
 .pic {
 	border-radius: 5px;
-	height: 300px;
+	max-height: 300px;
 	height: auto;
 }
 /* Mobile */
