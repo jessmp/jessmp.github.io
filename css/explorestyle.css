@@ -21,3 +21,21 @@
 	border-radius: 5px;
 	height: 300px;
 }
+/* Mobile */
+@media (max-width: 320px) {
+	.pic {
+		max-width: 90%;
+	}
+}
+/* Small Tablets */
+@media (min-width: 321px)and (max-width: 767px) {
+	.pic {
+		max-width: 90%;
+	}
+}
+/* Small Desktops */
+@media (min-width: 768px) and (max-width: 1096px) {
+	.pic {
+		max-width: 50%;
+	}
+}
