@@ -21,6 +21,8 @@
 .drawings {
 	background-color: #F8EBF3;
 	text-align: center;
+	margin-top: -25px;
+	padding: 25px 0;
 }
 .drawingdiv {
 	display: inline-block;
